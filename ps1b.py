@@ -29,8 +29,8 @@ for T in range(1,10000):
     
     avr = (high + low)/2
 
-T = -1
-print(T)   
+notfound = -1
+print(notfound)   
 
 
 
